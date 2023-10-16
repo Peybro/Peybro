@@ -27,7 +27,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 ### Fluent Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,python)](https://skillicons.dev)
 
 - Javascript/JSX
 - Python
