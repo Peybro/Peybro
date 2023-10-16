@@ -4,12 +4,8 @@
   <img alt="EvanZhouDev Banner" src="./ezDevBannerLight.svg">
 </picture>
 
-# 👋 Hi, I'm Evan Zhou.
+# 👋 Hi, I'm Thomas.
 A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
-
-> Check out my newest project, Google Bard for Raycast. Download it today!
-> 
-> <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/EvanZhouDev/raycast-bard-ai"><img src="https://www.raycast.com/EvanZhouDev/raycast-bard-ai/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
 ## ✨ Skills
 
@@ -35,13 +31,12 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 - Javascript/JSX
 - Python
-- English
+- German, English
 
 ### JavaScript Specific Toolset
 
 - NodeJS
 - NPM
-- HTML5 Canvas
 
 ## 👾 Software
 > What's on my computer?
@@ -50,23 +45,20 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 - IDE: [VSCode](https://code.visualstudio.com/)
 - Design Software: [Figma](https://figma.com)
-- Browser: [Arc](https://arc.net/)
-- Keyboard Customizer: [Karabiner Elements](https://karabiner-elements.pqrs.org/)
+- Browser: [Firefox](https://arc.net/), [Ungoogled Chromium](https://arc.net/)
 
 Other Productivity Tools:
 
 - Spotlight Search Alternative: [Raycast](https://www.raycast.com/)
-    - Proud [Raycast Pro](https://www.raycast.com/pro) Subscriber!
 - Screenshots: [Shottr](https://shottr.cc/)
 
 ## 💻 Hardware
 
 > What do I use?
 
-- Computer: M1 Macbook Air
-- Keyboard: Keychron K2 w/ Gateron Brown switches
-- Mouse: Logi MX 2 Anywhere
-- Stand: Rain Design mStand
+- CPU: Intel(R) Core(TM) i5-6500 CPU @3.20GHz
+- GPU: NVIDIA GeForce GTX 970
+- RAM: 8 GB
 
 ## 📈 Stats
 > How much do I do what I do?
