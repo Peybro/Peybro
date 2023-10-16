@@ -1,16 +1,74 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ezDevBannerDark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./ezDevBannerLight.svg">
+  <img alt="EvanZhouDev Banner" src="./ezDevBannerLight.svg">
+</picture>
 
-<!--
-**Peybro/Peybro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Evan Zhou.
+A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
 
-Here are some ideas to get you started:
+> Check out my newest project, Google Bard for Raycast. Download it today!
+> 
+> <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/EvanZhouDev/raycast-bard-ai"><img src="https://www.raycast.com/EvanZhouDev/raycast-bard-ai/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Skills
+
+> What can I do?
+
+### General
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
+
+- Web devlopment
+  - React/JSX
+  - Next.js Framework
+  - Redux
+- Web Scraping
+  - Headless browser control with [Puppeteer](https://pptr.dev/)
+  - Getting general information with [Axios](https://axios-http.com/)
+- UI/Graphic Design
+  - CSS/HTML
+
+### Fluent Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,python)](https://skillicons.dev)
+
+- Javascript/JSX
+- Python
+- English
+
+### JavaScript Specific Toolset
+
+- NodeJS
+- NPM
+- HTML5 Canvas
+
+## 👾 Software
+> What's on my computer?
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
+
+- IDE: [VSCode](https://code.visualstudio.com/)
+- Design Software: [Figma](https://figma.com)
+- Browser: [Arc](https://arc.net/)
+- Keyboard Customizer: [Karabiner Elements](https://karabiner-elements.pqrs.org/)
+
+Other Productivity Tools:
+
+- Spotlight Search Alternative: [Raycast](https://www.raycast.com/)
+    - Proud [Raycast Pro](https://www.raycast.com/pro) Subscriber!
+- Screenshots: [Shottr](https://shottr.cc/)
+
+## 💻 Hardware
+
+> What do I use?
+
+- Computer: M1 Macbook Air
+- Keyboard: Keychron K2 w/ Gateron Brown switches
+- Mouse: Logi MX 2 Anywhere
+- Stand: Rain Design mStand
+
+## 📈 Stats
+> How much do I do what I do?
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peybro&theme=github)
