@@ -5,7 +5,7 @@
 </picture>
 
 # 👋 Hi, I'm Thomas.
-A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know!
+A designer and developer. I love new technologies, and am constantly looking for something interesting to play around with. If you've got something, let me know! I am currently focusing on front-end development, as well as contributing to open source projects whenever I can.
 
 ## ✨ Skills
 
